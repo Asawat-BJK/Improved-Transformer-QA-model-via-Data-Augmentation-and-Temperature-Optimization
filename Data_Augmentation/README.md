@@ -1,3 +1,3 @@
-Data Augmentation
--Synonym Replacement
+Data Augmentation\
+-Synonym Replacement\
 -Backtranslation
