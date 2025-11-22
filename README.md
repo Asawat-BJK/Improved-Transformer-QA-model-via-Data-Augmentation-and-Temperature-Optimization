@@ -3,4 +3,4 @@ Project: **Improved Transformer QA model via Data Augmentation and Temperature O
 It was done during the class EE518 Neural Network and Deep Learning at Chulalongkorn University.\
 There are two members in this project: Asawat Buajongkol and Jettanat Jindalux
 
-The dataset is SQuAD 1.1
+The dataset used is SQuAD 1.1
